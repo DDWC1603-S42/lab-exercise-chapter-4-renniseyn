@@ -1,8 +1,11 @@
-//Display the pattern using numebr repeating for a row
+//Leang Yue Nin
+//A17DW0182
+//Display the pattern using number repeating for a row
 //fix and complete the program below.
 
 
 #include <iostream>
+using namespace std;
 
 
 int main()
@@ -10,7 +13,7 @@ int main()
 	cout<<"Display the pattern"<<endl;
 	cout<<"-------------------"<<endl;
 
-	i,j,rows;
+	int i,j,rows;
 	cout<<"Input number of rows :"<<endl;
 
 
