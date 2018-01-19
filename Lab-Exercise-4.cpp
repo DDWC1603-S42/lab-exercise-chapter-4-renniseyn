@@ -22,9 +22,10 @@ int main()
 	{
 		for(j=1;j<=i;j++)
 		
-		cout<<i<<endl;
-		cout<<j<<endl;
+		cout<<j;
+		cout<<endl;
 
 	}
 }
+
 	
